@@ -6,5 +6,8 @@ Deseja-se construir um sistema acadêmico. Para isso, são registrados os cursos
 1 curso, 1 turma, 2 matrículas e 2 avaliações com resultados.
 
 ## Diagrama
+#### Modelo Conceitual
+![myimage](https://github.com/Ribeirosk8/Sistema-Escola/blob/main/Modelo%20conceitual.png)
+#### Instância 
 
 
